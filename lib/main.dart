@@ -103,7 +103,7 @@ class _HomePageState extends State<HomePage> {
                         children: [
                           Text('Name : HackerManTeam'),
                           Text('GitHub : '),
-                          Text('https://github.com/Hackermanteamofficial')
+                          Text('https://github.com/hackermanteamofficial')
                         ],
                       ),
                       actions: [
